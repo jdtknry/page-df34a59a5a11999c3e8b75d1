@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "28ef5ab783fba3090723a491",
+  "owner": "jdtknry",
+  "repo": "page-df34a59a5a11999c3e8b75d1",
+  "title": "MTSS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "df34a59a5a11999c3e8b75d1",
+      "a": "MTSS",
+      "b": "机场官网线路发布页",
+      "entity": "MTSS",
+      "brand": "MTSS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "36b317842b60565eb46cda95f187b75f975238e770bdcb6a8ef557e4c5203c66",
+      "content": {
+        "primary_entity": "MTSS",
+        "keyword1": "MTSS",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_TITLE": "客户端选择与配置",
+          "AI_CLIENTS_INTRO": "MTSS 兼容 Windows、macOS、Android、iOS 与路由器客户端的订阅导入方式。不同设备系统版本对客户端支持存在差异，请以所装客户端文档为准。桌面端可选 Clash Verge、v2rayN；移动端可选 Shadowrocket、Clash Meta for Android；路由器端可按插件说明配置。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定版本，再下载对应客户端导入订阅即可开始。",
+          "AI_DESCRIPTION": "，主打多平台客户端订阅与透明套餐对比。基础版每月 100GB 流量、支持 3 台设备，年付 ¥150；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线游戏加速，年付 ¥350；团队版每月 1000GB、支持 20 台设备，年付 ¥850。用户可先确定常用设备数量与月流量需求，再选择对应版本；桌面端与移动端均有客户端可导入订阅，路由器端可按插件文档配置。",
+          "AI_FAQ_ANSWER_1": "按常用设备数判断：手机加电脑约 2 至 3 台选基础版；手机、电脑、平板及电视盒子合计 5 台左右选旗舰版；超过 10 台或团队共用则选团队版。",
+          "AI_FAQ_ANSWER_2": "可以。旗舰版含 IPLC 专线并对游戏加速优化，延迟表现通常优于普通节点池。实际速度受本地网络与运营商线路影响。",
+          "AI_FAQ_ANSWER_3": "在客户端内新增订阅，粘贴购买后获得的订阅地址并更新节点。不同客户端导入入口不同，请按对应客户端文档操作。",
+          "AI_FAQ_ANSWER_4": "月付与年付均可选择，年付相当于节省约两个月费用。短期试用可选月付，长期使用选年付更划算。",
+          "AI_FAQ_ANSWER_5": "超出后连接速度会受限，升级套餐或等待下月流量重置即可恢复。旗舰版与团队版流量额度更高，适合重度使用。",
+          "AI_FAQ_INTRO": "套餐选择、客户端导入与流量规则。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合多少设备使用？",
+          "AI_FAQ_QUESTION_2": "旗舰版是否适合游戏加速？",
+          "AI_FAQ_QUESTION_3": "订阅地址如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "年付与月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "流量超出后如何处理？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕套餐、设备与订阅周期整理三项要点，便于快速判断。",
+          "AI_FEATURES_TITLE": "选择与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按同时在线设备数挑选。",
+          "AI_FEATURE_TEXT_2": "月付适合短期试用，年付按基础版 ¥150、旗舰版 ¥350、团队版 ¥850 节省支出。",
+          "AI_FEATURE_TEXT_3": "按 Windows、macOS、Android、iOS 或路由器选择对应客户端并导入订阅。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "订阅周期规划",
+          "AI_FEATURE_TITLE_3": "客户端按需选择",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步即可完成配置。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "MTSS 提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备与每月 100GB 至 1000GB 流量。桌面端、移动端和路由器均有对应客户端，导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多平台订阅与套餐对比",
+          "AI_HIGHLIGHT_1": "三档套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_2": "年付方案，节省约两个月费用",
+          "AI_HIGHLIGHT_3": "客户端订阅导入，多平台可用",
+          "AI_PLANS_INTRO": "基础版适合 3 台以内轻量使用，旗舰版提供 5 台设备与专线加速，团队版面向 20 台设备与高流量场景。三档均支持月付与年付。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所用设备系统与版本是否支持所选客户端，必要时参考客户端适配说明。",
+          "AI_STEP_TEXT_3": "下载对应客户端，新增订阅地址并更新节点，按客户端文档完成导入。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "MTSS 订阅与套餐对比"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "szydj.cn",
+    "host": "szydj.cn"
+  },
+  "file_hashes": {
+    "index.html": "ee907e50bc45709019b52919014200202b70b0d7e567cb338769fdc44cd764ff",
+    "sitemap.xml": "bd1fa0b13b3f394ece2020571e6189f431b97b47d97de4bbcff5c9adfe943b4d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "aad0f149d96df5ff04f03dff24cd0ecbcf6e3cc2eebc275fb15ae50ea5011cf5",
+    "robots.txt": "59dded0e561e3c4c6a973ffac46eaeb44fb662e9a6d3adf56771f1185c387593",
+    "2e7e8b14339e1767e257e3e236407266.txt": "7909d539e61a5aedd8db1e4fc07d37597a87be77d021668f010af7edb774f2a7"
+  },
+  "revision": "6204b183424d4c19ce2b9572972194714ad51458230a1f74afd2bcb6a31aeb45"
+}
